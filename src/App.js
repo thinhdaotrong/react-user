@@ -111,7 +111,7 @@ class App extends Component {
             checkConnect={() => this.checkConnect()}
             getTextSearch={event => this.getTextSearch(event)}
             hienThiForm={this.state.hienThiForm}
-            // getUserEditInfoApp={info => this.getUserEditInfoApp(info)}
+            getUserEditInfoApp={info => this.getUserEditInfoApp(info)}
           ></Search>
           {/* </div> */}
           <div className="row">
