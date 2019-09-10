@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "thinh dep trai",
+        "tel" : "0203487230",
+        "permission" : "admin"
+    },
+    {
+        "id" : 2,
+        "name" : "tuan",
+        "tel" : "0203487230",
+        "permission" : "user"
+    },
+    {
+        "id" : 3,
+        "name" : "huy",
+        "tel" : "020387230",
+        "permission" : "user"
+    },
+    {
+        "id" : 4,
+        "name" : "son",
+        "tel" : "0275670",
+        "permission" : "user"
+    },
+    {
+        "id" : 5,
+        "name" : "duc",
+        "tel" : "02023234",
+        "permission" : "user"
+    }
+]
